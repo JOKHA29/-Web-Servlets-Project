@@ -1,0 +1,10 @@
+DAO\UserDao.class
+MailSender\MailSender.class
+Info\Info.class
+Listeners\ContextListener.class
+Servlets\RegisterServlet.class
+Servlets\LoginServlet.class
+Servlets\Logout.class
+DAO\User.class
+Listeners\SessionListener.class
+MailSender\MailSender$1.class
